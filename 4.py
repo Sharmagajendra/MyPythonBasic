@@ -1,4 +1,5 @@
-P=int(input("Enter the Percentage"))
+
+P=int(input("Enter Your Percentage"))
 if P<40:
     print("you are failed")
 elif P<50:
